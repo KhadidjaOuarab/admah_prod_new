@@ -1,0 +1,30 @@
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   gap: 1em;
+    border: 2px black;
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+   margin-bottom: 3%;
+   /* width: 80;*/
+   /* height: 100vh;*/
+}
+
+.col{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    border: 2px black;
+  /*  width: 100%;*/
+    gap: 1rem;
+    
+
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+  /*  background-color: red;*/
+   
+   
+}

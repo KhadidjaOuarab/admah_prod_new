@@ -1,0 +1,33 @@
+.HeaderLoginMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 24px;
+  gap: 256px;
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  /* left: 0px;
+  top: 0px;*/
+  background: #f0eefd;
+  border: 1px solid #644ded;
+}
+
+.HeaderLogin {
+  
+  width: 1600px;
+  height: 61px;
+  left: 0px;
+  top: 0px;
+
+  background: #fdfafa;
+}
+
+.HeaderLoginLeft {
+display: flex;
+flex-direction: row;
+justify-content: left;
+align-items: center;
+gap: 24px;
+}

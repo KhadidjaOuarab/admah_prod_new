@@ -1,0 +1,17 @@
+.Card
+{
+position: relative;
+width: 300px;
+height: 450px;
+left: 253px;
+top: 100px;
+background: #ffffff;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: left;
+padding: 24px;
+
+
+}
+

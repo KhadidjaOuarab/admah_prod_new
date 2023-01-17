@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bg {
+  background-image: url(../Assets/login_bg.jpg);
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  overflow: scroll;
+  background-size: cover;
+  background-position: center center;
+}
+
+@media (width: 480px) {
+  .bg {
+   /* background-image: url(../Assets/LogoAh.png);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+    background-size: cover;
+    background-position: center center;*/
+  }
+}

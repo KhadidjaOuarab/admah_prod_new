@@ -1,0 +1,4 @@
+.cardMenuBar{
+    display: flex;
+    flex-direction: row;
+}

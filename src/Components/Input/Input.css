@@ -1,0 +1,85 @@
+input {
+  box-sizing: border-box;
+  width: 300px;
+  height: 48px;
+  background: #ffffff;
+  border: 1px solid #644ded;
+  border-radius: 8px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  font-size: 20px;
+  line-height: 16px;
+  font-family: "Apercu Pro";
+  font-style: normal;
+}
+
+::placeholder {
+  width: 116px;
+  height: 16px;
+  font-family: "Apercu Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  color: #bcbcc6;
+}
+
+.InputCss {
+}
+
+.InputCssWithLabel {
+  top: 100px;
+}
+
+.InputCssWithLabelIcon {
+  top: 200px;
+}
+
+.FontAwesomeIconClass {
+  position: absolute;
+  margin-top: 24px;
+  margin-left: -32px;
+}
+/************************************************************************/
+.css-1hb7zxy-IndicatorsContainer {
+  height: 40px;
+  width: 40px;
+}
+
+.css-1dimb5e-singleValue {
+  font-family: Apercu Pro;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.css-ifo55t-control {
+  box-sizing: border-box;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 81.22%;
+  background: #eeeef2;
+  border: 1px solid #ad9fff;
+  border-radius: 8px;
+  border: "1px solid #AD9FFF",
+}
+
+.css-w54w9q-singleValue  {
+ 
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  
+  margin-bottom: 16px;
+ border-radius: 8px;
+  margin-left: 16px;
+  font-family: Apercu Pro;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: left;
+}
